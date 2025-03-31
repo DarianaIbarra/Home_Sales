@@ -1,5 +1,4 @@
-In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
-
+**In this challenge, you'll use your knowledge of SparkSQL to determine key metrics about home sales data. Then you'll use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.**
 Before You Begin
 -Create a new repository for this project called, Home_Sales. Do not add this homework to an existing repository.
 
